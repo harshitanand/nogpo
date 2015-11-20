@@ -83,7 +83,7 @@ LOGOUT_URL = "/"
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.mailgun.org'
 EMAIL_HOST_USER = 'postmaster@nogpo.com'
-EMAIL_HOST_PASSWORD = 'f63f5059d3255612cfae4470ed9b34ed'
+EMAIL_HOST_PASSWORD = 'f63f5059d3255612cfae4470ed9b34###'
 EMAIL_PORT = 587
 
 # Internationalization
